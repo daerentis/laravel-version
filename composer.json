@@ -1,6 +1,7 @@
 {
     "name": "daerentis/laravel-version",
     "description": "This package provides a simple way to get the current Laravel version and send it to an external API.",
+    "version": "1.0.0",
     "keywords": [
         "daerentis",
         "laravel",
