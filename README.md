@@ -1,4 +1,4 @@
-# This is my package laravel-version
+# Laravel Version
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/daerentis/laravel-version.svg?style=flat-square)](https://packagist.org/packages/daerentis/laravel-version)
 [![Total Downloads](https://img.shields.io/packagist/dt/daerentis/laravel-version.svg?style=flat-square)](https://packagist.org/packages/daerentis/laravel-version)
